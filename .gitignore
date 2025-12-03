@@ -1,0 +1,6 @@
+*.yml
+*.ini
+plan.md
+test_inputs/
+templates/
+
